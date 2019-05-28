@@ -1,0 +1,14 @@
+{
+  "name": "gymbox-booker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.16.0",
+    "puppeteer-core": "^1.16.0",
+    "request": "^2.88.0"
+  }
+}
