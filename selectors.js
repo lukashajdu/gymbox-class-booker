@@ -9,7 +9,11 @@ module.exports = {
         contortion: 'Contortion',
         yoga: 'Vinyasa Flow Yoga',
         barbells: 'Barbell Club',
-        kettlebells: 'Kettlebells'
+        kettlebells: 'Kettlebells',
+        gains: 'Gains',
+        bike: 'Bike & Beats',
+        thai: 'Muay Thai',
+        dancehall: 'Dancehall'
     },
     gym: {
         oldStreet: 8,

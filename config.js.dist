@@ -1,4 +1,5 @@
 module.exports = {
+    chromiumExecutable: '<CHROMIUM_EXECUTABLE_PATH>',
     username: '<USERNAME>',
     password: '<PASSWORD>'
 };

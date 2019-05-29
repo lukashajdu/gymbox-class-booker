@@ -7,14 +7,14 @@
     $ cd gymbox-class-booker
     $ npm install
     ```
-2. Create configuration file and insert your credentials
+2. Create configuration file and insert your credentials and executable path to Chromium browser
     ```
-    $ cp credentials.js.dist credentials.js
+    $ cp config.js.dist config.js
     ```
 3. (Optional) Update `selectors.js` to include your favourite classes and clubs
 
 **Run booker**
 
 ```
-node index.js <CLASS_NAME>
+node book.js <CLASS_NAME> <HH:MM> <CLUB_NAME>
 ```
